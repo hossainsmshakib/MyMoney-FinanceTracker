@@ -126,15 +126,12 @@ const BudgetList: React.FC<BudgetListProps> = ({ budgets }) => {
             className={`bg-white rounded-lg shadow-md overflow-hidden border-2 ${borderColor}`}
           >
             <div
-              className={`px-3 py-2 text-white flex justify-between items-center ${color.replace(
-                "text-",
-                "bg-"
-              )}`}
+              className={`px-3 py-2 flex justify-between items-center ${bgColor}`}
             >
-              <h3 className="text-base font-semibold truncate mr-2">
+              <h3 className="text-base font-semibold truncate mr-2 text-gray-800">
                 {budget.category}
               </h3>
-              <p className="text-xs opacity-90 whitespace-nowrap">
+              <p className="text-xs text-gray-600 whitespace-nowrap">
                 {formatDate(budget.month)}
               </p>
             </div>
