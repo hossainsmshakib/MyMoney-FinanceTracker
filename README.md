@@ -1,14 +1,11 @@
 # Personal Finance Tracker
 
-A simple personal finance tracker that allows users to manage their income, expenses, and savings goals. The app includes features such as transaction categorization, budgeting, and data visualization to help users stay on top of their finances.
+A simple personal finance tracker that allows users to manage their income, expenses. The app includes features such as transaction categorization and data visualization to help users stay on top of their finances.
 
-## Instructions
-
-1. **Fork** this repository to your own GitHub account.
-2. Implement the requested features.
-3. When you are done, submit a **Pull Request (PR)** back to the original repository.
-
----
+### UI
+![image](https://github.com/user-attachments/assets/bb8e0311-0df0-4c1c-b555-e44974fc9de9)
+![image](https://github.com/user-attachments/assets/077c7da9-9c91-4a8a-8507-d9a55f32ec3f)
+![image](https://github.com/user-attachments/assets/5c332907-3ef4-4e3e-a988-6d381bd852d5)
 
 ## Features
 
@@ -44,21 +41,7 @@ A simple personal finance tracker that allows users to manage their income, expe
 - Display spending patterns and category-wise expenses using charts or graphs.
 - Show monthly trends for both income and expenses.
 
-### 7. **Saving Goals**
-
-- Users can set savings goals (e.g., save $500 for a vacation).
-- Track progress towards goals and update the amount saved.
-
-### 8. **Export Transactions**
-
-- Export all financial transactions as a CSV file for external use.
-
-### 9. **Recurring Transactions**
-
-- Set up recurring transactions such as monthly rent or salary.
-- Recurring transactions are automatically updated each month.
-
-### 10. **Responsive Design**
+### 7. **Responsive Design**
 
 - Fully responsive UI to ensure the app works across mobile, tablet, and desktop devices.
 
