@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A simple personal finance tracker that allows users to manage their income, expenses. The app includes features such as transaction categorization and data visualization to help users stay on top of their finances.
+A simple personal finance tracker that allows users to manage their income, expenses. The app includes features such as transaction categorization and data visualization to help users stay on top of their finances. <br/>
 Tech Stack: React, Redux, TypeScript, TailwindCSS, JSON server, React Icon.
 
 ### UI
