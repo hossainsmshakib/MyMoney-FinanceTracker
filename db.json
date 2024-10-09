@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "a9a4",
+      "username": "hossainsmshakib",
+      "email": "smsakib2403@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "ca3d",
+      "amount": "100",
+      "category": "food",
+      "type": "expense",
+      "date": "2024-10-08",
+      "description": "Buys Food"
+    },
+    {
+      "id": "5c47",
+      "description": "Rent",
+      "category": "Home",
+      "type": "expense",
+      "amount": "500",
+      "date": "2024-10-08"
+    },
+    {
+      "id": "4e99",
+      "description": "Tour",
+      "category": "Vacation",
+      "type": "expense",
+      "amount": "600",
+      "date": "2024-10-08"
+    },
+    {
+      "id": "a130",
+      "description": "Self Care",
+      "category": "Medicine",
+      "type": "expense",
+      "amount": "75",
+      "date": "2024-10-08"
+    },
+    {
+      "id": "52e8",
+      "description": "Salary",
+      "category": "Office",
+      "type": "income",
+      "amount": "2000",
+      "date": "2024-10-09"
+    },
+    {
+      "id": "514c",
+      "description": "Rent",
+      "category": "Home",
+      "type": "expense",
+      "amount": "500",
+      "date": "2024-09-09"
+    },
+    {
+      "id": "b255",
+      "description": "Salary",
+      "category": "Office",
+      "type": "income",
+      "amount": "2000",
+      "date": "2024-09-15"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "a51f",
+      "userId": "a9a4",
+      "category": "Food",
+      "amount": 1000,
+      "month": "2024-10"
+    },
+    {
+      "id": "98ea",
+      "userId": "a9a4",
+      "category": "Home",
+      "amount": 500,
+      "month": "2024-10"
+    },
+    {
+      "id": "234a",
+      "userId": "a9a4",
+      "category": "Job",
+      "amount": 100,
+      "month": "2024-10"
+    },
+    {
+      "id": "235e",
+      "userId": "a9a4",
+      "category": "Vacation",
+      "amount": 500,
+      "month": "2024-10"
+    },
+    {
+      "id": "be7d",
+      "userId": "a9a4",
+      "category": "Medicine",
+      "amount": 100,
+      "month": "2024-10"
+    }
+  ],
+  "dashboard": {
+    "summary": {
+      "totalIncome": 0,
+      "totalExpenses": 0,
+      "remainingBalance": 0
+    },
+    "categoryExpenses": [],
+    "monthlyTrends": [],
+    "budgetComparison": []
+  }
+}
