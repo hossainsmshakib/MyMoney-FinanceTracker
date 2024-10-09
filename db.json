@@ -63,6 +63,14 @@
       "type": "income",
       "amount": "2000",
       "date": "2024-09-15"
+    },
+    {
+      "id": "2691",
+      "description": "Rent",
+      "category": "Rent",
+      "type": "expense",
+      "amount": "100",
+      "date": "2024-10-09"
     }
   ],
   "budgets": [
@@ -99,6 +107,20 @@
       "userId": "a9a4",
       "category": "Medicine",
       "amount": 100,
+      "month": "2024-10"
+    },
+    {
+      "id": "c107",
+      "userId": "a9a4",
+      "category": "Car wash",
+      "amount": 500,
+      "month": "2024-10"
+    },
+    {
+      "id": "b721",
+      "userId": "a9a4",
+      "category": "Job",
+      "amount": 500,
       "month": "2024-10"
     }
   ],
